@@ -1,0 +1,4 @@
+name: Str
+age: Int
+lang: Str
+percent: Float
